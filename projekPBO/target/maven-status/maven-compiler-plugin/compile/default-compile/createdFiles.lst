@@ -1,0 +1,13 @@
+com\kampus\model\Peminjaman.class
+ProsesPengembalian.class
+com\kampus\model\User.class
+com\kampus\dao\PeminjamanDAO.class
+com\kampus\dao\UserDAO.class
+com\kampus\util\KoneksiDB.class
+ProsesPeminjaman.class
+com\kampus\dao\BarangDAO.class
+com\kampus\model\Barang.class
+dev\alf\projekpbo\JakartaRestConfiguration.class
+HapusPeminjaman.class
+dev\alf\projekpbo\resources\JakartaEE10Resource.class
+ProsesLogin.class
